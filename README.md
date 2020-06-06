@@ -8,8 +8,8 @@ In this project, there will be another option. If the customer question is about
 
 In Watson Discovery I have added ecobee3_userguide.
 
-I have uploaded a demo video of this project in my youtube channel. https://youtu.be/Ub-0n3tcHHw
+I have uploaded a demo video of this project in my youtube channel.
 
-Node_Red Dasboard link after deploying : https://node-red-vqivh.eu-gb.mybluemix.net/ui
+Node_Red Dasboard link after deploying :https://node-red-rkrqr.eu-gb.mybluemix.net/ui
 
-Preview link of Watson Assistant : https://eu-gb.assistant.watson.cloud.ibm.com/eu-gb/crn:v1:bluemix:public:conversation:eu-gb:a~2F0d1fb70035ce4af6bec992d78e38057e:4846548c-dbfd-4009-9201-dd16b71e6093::/skills/ac7dff0a-cdf3-4def-9c05-5f563fd96679/build/intents Have a casual talks about availability_of_flight, booking a flight, check_status_of_a_flight like What is status of AA 456,etc.
+Preview link of Watson Assistant : 
